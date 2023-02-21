@@ -1,5 +1,5 @@
 # Working-with-APIs-Kaggle-API
-In this short code our goal is to download dataset from Kaggle website to our Google Colab or any other noterbook using API.
+In this short code our goal is to download dataset from Kaggle website to our Google Colab or any other notebook using Kaggle API.
 
 The Kaggle API allows you to programmatically access and interact with Kaggle datasets, kernels, competitions, and more. Here are the steps to use the Kaggle API:
 1) Install the Kaggle API: To install the Kaggle API, you can use pip by running the following command in your terminal or command prompt:
